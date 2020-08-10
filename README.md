@@ -1,4 +1,4 @@
-### Hi there 👋 Checo se la come
+### Hi there 👋 
 
 <!--
 **MxJesusDiaz/MxJesusDiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

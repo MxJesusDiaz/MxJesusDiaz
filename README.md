@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jesus</h1>
+<h1 align="center">I love cats and tacos ❤️</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mxjesusdiaz&label=Profile%20views&color=0e75b6&style=flat" alt="mxjesusdiaz" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mxjesusdiaz" alt="mxjesusdiaz" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mxjesusdiaz" target="blank"><img src="https://img.shields.io/twitter/follow/mxjesusdiaz?logo=twitter&style=for-the-badge" alt="mxjesusdiaz" /></a> </p>
 

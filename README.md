@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jesus</h1>
 <h1 align="center">I love cats and tacos ❤️</h1>
 
-- 🌱 I’m currently learning **JSP**
+- 🌱 I’m currently learning **NodeJS**
 
 - 📫 How to reach me **contact@jalejandro.dev**
 
